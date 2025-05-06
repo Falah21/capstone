@@ -14,9 +14,8 @@ obsessivecompulsive,ocd
 4ever,forever
 i'm,i am
 add,adhd
-add,attention deficit hyperactivity disorder
+add,adhd
 addmelist,add me list
-adhd,attention deficit hyperactivity disorder
 attention deficit hyperactivity disorder,adhd
 adhd,adhd
 af,as fuck
@@ -36,7 +35,6 @@ anxietea,anxiety
 anyone's,anyone is
 anyones,anyone is
 apparantly,apparently
-ari pics,ariana grande pictures
 asap,as soon as possible
 at the mo,at the moment
 atm,at the moment
@@ -50,15 +48,14 @@ bby,baby
 bc,because
 bcuz,because
 bday,birthday
-bed,binge eating disorder
 bet,agreement or sure
 bf,boyfriend
 bff,best friends forever
-bi polar,bipolar
-bipolardisorder,bipolar disorder
+bi polar,bpd
+bipolar,bpd
+bipolardisorder,bpd
 bout,about
-bp,bipolar
-bpd,borderline personality disorder
+bp,bpd
 bra,bro
 brain goblins,negative thoughts
 brainweasels,intrusive thoughts
@@ -83,7 +80,7 @@ crazy compulsions,compulsive behaviors
 cutting,self harming
 cuz,because
 damnnn,damn
-ddnos,dissociative disorder not otherwise specified
+ddnos,dissociativeidentitydisorder not otherwise specified
 def,definitely
 demoniac,demonic
 depressionanxiety,depression and anxienty
@@ -108,8 +105,8 @@ drip,stylish clothing
 drunk,intoxicated
 ducking,fucking
 dunno,don't know
-ed,eating disorder
-ednos,eating disorder not otherwise specified
+ed,bed
+ednos,bed not otherwise specified
 endegenous,endogenous
 episo,episode
 eta,estimated time of arrival
@@ -130,7 +127,7 @@ ftw,for the win
 fuckin,fucking
 funfactaboutme,fun fact about me
 fyi,for your information
-gad,generalized anxiety disorder
+generalized anxiety disorder,gad
 ganna,gonna
 geez,oh god
 gf,girlfriend
@@ -205,7 +202,6 @@ justwow,just wow
 kind of,somewhat
 kinda,kind of
 kno,know
-knowyouranon,know your anonymous
 l8r,later
 lateri,later i
 lemme,let me
@@ -213,11 +209,8 @@ likewow,like wow
 lisas,lisa is
 lit,exciting or amazing
 livinglife,living life
-lmao,laughing my ass off
-lmfao,laughing my fucking ass off
 lmfaoooo,lmfao
 lmk,let me know
-lots of shit,many problems
 lt,less than
 lulzz,lol
 manic,hyperactive episode
@@ -252,9 +245,7 @@ np,no problem
 nsfw,not safe for work
 nt,not
 nvm,never mind
-ocd,obsessive compulsive disorder
-ocpd,obessive-compulsive personality disorder
-odd,oppositional defiant disorder
+oppositional defiant disorder,odd
 ofc,of course
 ohjoy,ohjoy
 ok,okay
@@ -269,13 +260,13 @@ osteo arthritis,osteoarthritis
 oughta,ought to
 outta,out of
 panic,anxiety attack
-panic anxiety,anxiety disorder
+panic anxiety,anxiety
 panik,panic attack
 pcd,post concert depression
 pic,picture
 pls,please
 plus,and
-pmdd,premenstrual dysphoric disorder
+premenstrual dysphoric disorder,pmdd
 podpost,post
 pog,cool or awesome
 pop pills,take medicine
@@ -284,7 +275,7 @@ posi,positive
 postannie,postpartum
 postcup,post-cup
 postdisney,post-disney
-postreadingdepression,post-reading depression
+postreadingdepression,prd
 postshow,post-show
 posttournament,post-tournament
 posttwilight,post-twilight
@@ -293,7 +284,6 @@ pricks,rude people
 prolly,probably
 psych,psychology
 ptsd,ptsd
-ptsd,post-traumatic stress disorder
 ptsdsisterbrotherdepress,ptsd sister brother depression
 qt,cutie
 rawgonna,raw gonna
@@ -461,7 +451,7 @@ ally,supporter
 amp,and
 ampamp,and
 antenatal,prenatal
-autism,autism spectrum disorder
+autism,asd
 autsm,autism
 ayye,hey
 backstory,background story
@@ -551,7 +541,7 @@ nice meet u,nice to meet you
 nostigma,no stigma
 not ashamed to talk about it,open about my condition
 nuts,mentally unstable
-ocd,obsessive-compulsive disorder
+obsessive-compulsive disorder,ocd
 outta,out of  
 peep,post
 pills,medications
@@ -788,10 +778,7 @@ thru,through
 realise,realize
 siw,saw
 thi g,thing
-lmaoooo,laughing my ass off
-lmao,laughing my ass off
-lmfaooo,laughing a lot
-happybirthdayzaynmalik,happy birthday zayn malik
+thig,thing
 ompare,compare
 exited,excited
 wack,bad
@@ -804,7 +791,6 @@ yrs,years
 jb,justin bieber
 smh,shaking my head
 itll,it will
-michelleobamaforpresident,michelle obama for president
 da,the
 waz,was
 sumthin,something
@@ -950,3 +936,17 @@ bby,baby
 idc,i dont care
 og,original
 wdepression,with depression
+anxiety disorder,anxiety
+bipolar disorder,bipolar
+obsessive-compulsive disorder,ocd
+obsessivecompulsive disorder,ocd
+post-traumatic stress disorder,ptsd
+posttraumatic stress disorder,ptsd
+binge eating disorder,bed
+attention-deficit/hyperactivity disorder,adhd
+attentiondeficit hyperactivity disorder,adhd
+attention-deficit hyperactivity disorder,adhd
+borderline personality disorder,bpd
+autism spectrum disorder,asd
+dissociative identity disorder,dissociativeidentitydisorder
+substance use disorder,sud
